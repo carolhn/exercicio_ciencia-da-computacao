@@ -11,7 +11,7 @@
 *Seção 02: Padrões de Projetos*<br>
  ▫️2.1 P.O.O em Python<br>
  ▫️2.2 Introdução - Padrões - Iterator, Adapter, Strategy<br>
- ▫️3.3  Padrões - Decorator, Observer, Factory<br>
+ ▫️2.3  Padrões - Decorator, Observer, Factory<br>
  
  
 ## Contato:
