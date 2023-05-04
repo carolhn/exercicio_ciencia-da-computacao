@@ -8,6 +8,12 @@
  ▫️1.3 Testes<br>
  
  
+*Seção 02: Padrões de Projetos*<br>
+ ▫️2.1 P.O.O em Python<br>
+ ▫️2.2 Introdução - Padrões - Iterator, Adapter, Strategy<br>
+ ▫️3.3  Padrões - Decorator, Observer, Factory<br>
+ 
+ 
 ## Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-nunes-devfullstack/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caarolhn/)
