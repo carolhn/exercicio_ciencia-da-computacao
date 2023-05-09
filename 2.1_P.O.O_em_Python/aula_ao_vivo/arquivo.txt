@@ -1,0 +1,38 @@
+POO - PROGRAMAÇÃO ORIENTADA A OBJETO
+
+Classe cozinha:
+geladeira
+fogão
+- lavar_louça
+- fazer_faxina
+
+Classe Bolinha_de_gude
+cor
+tamanho
+- lançar
+- jogar
+
+Classe Tamagotchi
+nome
+fome
+saude
+idade
+- alimentar
+- limpar
+- medicar
+
+
+Classe Caixa_eletronico
+rapido
+digital
+- sacar
+- depositar
+
+
+1 - criar ambiente virtual
+python3 -m venv .venv && source .venv/bin/activate
+
+2 - criar o pip teste
+ pip install pytest
+
+3 - 
